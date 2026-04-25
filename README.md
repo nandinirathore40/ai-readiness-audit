@@ -29,4 +29,4 @@ The score is generated using simple heuristics based on the input URL (e.g., pre
 - Use NLP for content clarity
 
 ## Live Demo
-<your vercel link here>
+<https://ai-readiness-audit-ashy.vercel.app>
